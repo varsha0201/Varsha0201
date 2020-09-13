@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about.. Anything
 - 📫 How to reach me: ...[varshamohite0201@gmail.com]
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Leran-Unlearn-Relearn
 -->
